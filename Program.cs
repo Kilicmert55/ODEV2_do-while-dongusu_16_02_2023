@@ -4,7 +4,7 @@ namespace ODEV2_do_while_dongusu_16_02_2023
 {
     internal class Program
     {
-        #region PIN-PUK Kodu
+        #region PIN-PUK KODU
         static void Main(string[] args)
 
         {
